@@ -28,13 +28,6 @@
 
 <!-- Main Stylesheet File -->
 <link href="../css/style.css" rel="stylesheet">
-
-<!-- =======================================================
-    Theme Name: BizPage
-    Theme URL: https://bootstrapmade.com/bizpage-bootstrap-business-template/
-    Author: BootstrapMade.com
-    License: https://bootstrapmade.com/license/
-  ======================================================= -->
 <!-- TemplateBeginEditable name="head" -->
 <!-- TemplateEndEditable -->
 </head>
@@ -47,7 +40,7 @@
 <header id="header">
   <div class="container-fluid">
     <div id="logo" class="pull-left">
-      <h1><a href="#intro" class="scrollto"><img src="../img/Logo_Mixtape-site.png" class="img-fluid" alt=""/></a></h1>
+      <h1><a href="index.html"><img src="../img/Logo_Mixtape-site.png" class="img-fluid" alt=""/></a></h1>
       <!-- Uncomment below if you prefer to use an image logo --> 
       <!-- <a href="#intro"><img src="img/logo.png" alt="" title="" /></a>--> 
     </div>
@@ -59,8 +52,8 @@
         <li><a href="web.html">Web</a></li>
         <li><a href="social-media.html">Social Media</a></li>
         <li><a href="contacto.html">Contacto</a></li>
-        <li><a href="#"><i class="fa fa-facebook-official"></i></a></li>
-        <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+        <li><a href="https://www.facebook.com/mixtapestudio/" target="_blank"><i class="fa fa-facebook-official"></i></a></li>
+        <li><a href="https://www.instagram.com/mixtape_ec/" target="_blank"><i class="fa fa-instagram"></i></a></li>
       </ul>
     </nav>
     <!-- #nav-menu-container --> 
