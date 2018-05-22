@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url('../img/branding/cover-branding.jpg') no-repeat center center fixed;
   display: table;
   width: 100%;
-  height: 100vh;
+  height: 500px;
 	
 }
 
@@ -133,7 +133,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url('../img/web/cover-web.jpg') no-repeat center center fixed;
   display: table;
   width: 100%;
-  height: 100vh;
+  height: 500px;
 	
 }
 
@@ -141,7 +141,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url('../img/social media/cover-sm.jpg') no-repeat center center fixed;
   display: table;
   width: 100%;
-  height: 100vh;
+  height: 500px
 	
 }
 
@@ -149,7 +149,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url('../img/contacto/cover-contacto.jpg') no-repeat center center fixed;
   display: table;
   width: 100%;
-  height: 100vh;
+  height: 500px;
 	
 }
 
@@ -157,7 +157,7 @@ h1, h2, h3, h4, h5, h6 {
   background: url('../img/equipo/cover-equipo.jpg') no-repeat center center fixed;
   display: table;
   width: 100%;
-  height: 100vh;
+  height: 500px;
 	
 }
 
