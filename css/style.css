@@ -1122,7 +1122,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #testimonials .testimonial-item .testimonial-img {
-  border: 4px solid #fff;
+  border: 4px;
   margin: 0 auto;
 }
 
@@ -1177,7 +1177,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background-color: #ddd;
+  background-color: #ffffff;
 }
 
 #testimonials .owl-dot.active {
@@ -1365,7 +1365,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"] {
-  background: #18d26e;
+  background: #a11d22;
   border: 0;
   padding: 10px 30px;
   color: #fff;
@@ -1374,7 +1374,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #a11d22;
+  background: #a11d26;
 }
 
 /*--------------------------------------------------------------
